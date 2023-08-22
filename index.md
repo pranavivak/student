@@ -4,8 +4,8 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Pranavi's Blog 
+Hi, I am a senior at Del Norte. I play tennis and enjoy painting. 
 
 ### My free Form Picture
 ![Freeform picture](https://i.imgur.com/CQDGMma.jpg){width=300 height=300}
