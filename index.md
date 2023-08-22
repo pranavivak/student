@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## Pranavi's Blog 
+## <span style="color: purple"> Pranavi's Blog </span>
 Hi, I am a senior at Del Norte. I play tennis and enjoy painting. 
 
 ### My free Form Picture
